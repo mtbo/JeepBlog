@@ -1,0 +1,18 @@
+/* CSS declarations go here */
+a {color:#474F15;}
+a:hover {color:inherit;}
+
+h2 {color:#474F15;}
+
+figure.history {float:left; padding:0 2em 0 0;}
+figure.history img {margin:5px 0; border:1px solid #333; max-width:200px;}
+figure.history figcaption {font-size:smaller; color:#474F15; text-align:center;} */
+
+p {text-align: justify;}
+
+p.source {text-align: right; font-size:smaller; font-style: italic;}
+
+span.jeepBrand {color:#474F15;font-weight: 500;}
+
+button.jeepBrand, a.jeepBrand {background-color:#474F15; border:#000;}
+button.jeepBrand:hover, a.jeepBrand:hover {background-color:#874F15; border:#555;}
