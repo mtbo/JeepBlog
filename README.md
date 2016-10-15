@@ -26,4 +26,4 @@ This project is licensed under the MIT License - see the [LICENCE.md](LICENCE.md
 
 ## Acknowledgments
 
-* Thanks to University of London - Goldsmiths for their MeteorJS Algorithms
+* Thanks to University of London - Goldsmiths on Coursera teaching staff
